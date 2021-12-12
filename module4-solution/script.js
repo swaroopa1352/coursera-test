@@ -7,7 +7,7 @@ names[4]="Swaroopa";
 names[5]="Yaakov";
 names[6]="Jen";
 names[7]="jimin";
-names[8]="Suma";
+names[8]="Suman";
 names[9]="jim";
 
 for (var i = 0; i < names.length; i++) {
